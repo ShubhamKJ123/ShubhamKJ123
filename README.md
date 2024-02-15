@@ -1,4 +1,3 @@
-![logo](https://github.com/ShubhamKJ123/ShubhamKJ123/blob/main/software-Engineering3.png)
 <h1 align="center"> I'm Shubham Kumar Jha 👋</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
